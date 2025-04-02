@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Samaneh Kiamanesh | IT & Business Technology Expert</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f5f5f5;
+      color: #333;
+    }
+    header {
+      background: #4a90e2;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    section {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+      background: white;
+      margin-top: 1rem;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1, h2 {
+      margin-top: 0;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      color: gray;
+    }
+    a {
+      color: #4a90e2;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+
+
+  <header>
+    <h1>Samaneh Kiamanesh</h1>
+    <p>Ph.D. Student | Software Engineer | IT Solutions & Automation</p>
+  </header>
+
+
+  <section>
+    <h2>About Me</h2>
+    <p>
+      I am a passionate IT professional with over 9 years of experience in software development, automation, and digital transformation. Currently pursuing a Ph.D. in Business Management - Information Systems at Memorial University, I specialize in building efficient tech-driven solutions that improve business processes.
+    </p>
+  </section>
+
+
+  <section>
+    <h2>Projects & Experience</h2>
+    <ul>
+      <li><strong>PARS Oil & Gas Company</strong> – Software Engineer (2014–2023): Developed workflow systems with ASP.NET, SQL.</li>
+      <li><strong>NARGAN</strong> – Help Desk Specialist (2012–2014): Provided technical support and managed internal systems.</li>
+      <li><strong>North Drilling</strong> – SAP Supervisor (2009–2012): Led operations in sales, inventory, and customer services.</li>
+    </ul>
+  </section>
+
+
+  <section>
+    <h2>Skills</h2>
+    <p>Python, C#, SQL, JavaScript, ASP.NET, WordPress, SQL Server, Network+, CCNA, Data Science, Machine Learning</p>
+  </section>
+
+
+  <section>
+    <h2>Education</h2>
+    <ul>
+      <li>Ph.D. in Business Management – Memorial University, Canada</li>
+      <li>M.Sc. in Information Technology Engineering – Mazandaran University</li>
+      <li>B.Sc. in Computer Software Engineering – Mazandaran University</li>
+    </ul>
+  </section>
+
+
+  <section>
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:kiamanesh.samaneh@gmail.com">kiamanesh.samaneh@gmail.com</a></p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/samaneh-kiamanesh/" target="_blank">linkedin.com/in/samaneh-kiamanesh</a></p>
+    <p>Location: St. John's, Newfoundland and Labrador, Canada</p>
+  </section>
+
+
+  <footer>
+    &copy; 2025 Samaneh Kiamanesh. Built with GitHub Pages.
+  </footer>
+
+
+</body>
+</html>
